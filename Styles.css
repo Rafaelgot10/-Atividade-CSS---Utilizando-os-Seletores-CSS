@@ -17,7 +17,7 @@ span {
 }
 
 .descrição {
-    background-color: rgba(0, 21, 255, 0.619);
+    background-color: rgba(0, 21, 255, 0.783);
     color: white;
     max-width: 800px;
     line-height: 150%;
@@ -31,10 +31,11 @@ ol {
 
 
 footer {
+    border: 1px solid black;
+    padding: 1px;
     text-align: center;
     background-color: black;
     color: white;
-    height: 55px;
 }
 
 
